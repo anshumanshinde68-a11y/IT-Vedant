@@ -1,3 +1,5 @@
+Anshuman
+
  Attendance = int(input("Enter Attendance in percentage: "))
 if Attendance>75:
   print("You are eligible for the exam!")
